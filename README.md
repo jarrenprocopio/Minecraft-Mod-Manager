@@ -19,11 +19,6 @@ Minecraft Mod Manager is a tool designed specifically for managing Minecraft mod
 2. Run the Minecraft Mod Manager executable on your Windows machine.
 3. Connect to your Minecraft server and manage mods effortlessly.
 
-## Installation
-
-1. Download the [latest release](https://github.com/SippingSizzurp/Minecraft-Server-Mod-Manager/tree/main).
-2. Extract the contents to a directory on your Windows machine.
-
 ## Screenshots
 
 ![image](https://github.com/SippingSizzurp/Minecraft-Server-Mod-Manager/assets/111225194/38428b68-e3f7-4901-9189-2924aaa7b107)
